@@ -1,0 +1,11 @@
+//- bookslist.pug
+
+html
+  head
+    title Book List
+  body
+    h1 Book List
+    ul
+      each book in books
+        li
+          a(href=`/books/${book.id}`) #{book.title}

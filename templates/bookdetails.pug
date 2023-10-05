@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title Book Details
+  body
+    h1 Book Details
+
+    if book
+      h2= book.title
+      p Author: #{book.author}
+      p Publication Year: #{book.publicationYear}
+      p ISBN: #{book.isbn}
+      p Genre: #{book.genre}
+    else
+      p Book not found

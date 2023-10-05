@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publicationYear": 1951,
+      "isbn": "978-0-316-76948-0",
+      "genre": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publicationYear": 1960,
+      "isbn": "978-0-06-112008-4",
+      "genre": "Fiction"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "publicationYear": 1949,
+      "isbn": "978-0-452-28423-4",
+      "genre": "Dystopian Fiction"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publicationYear": 1925,
+      "isbn": "978-0-7432-7356-5",
+      "genre": "Fiction"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publicationYear": 1813,
+      "isbn": "978-0-486-30173-7",
+      "genre": "Classic Fiction"
+    },
+    {
+      "id": 6,
+      "title": "2324",
+      "author": "1223",
+      "publicationYear": 12321,
+      "isbn": "2313",
+      "genre": "3213"
+    },
+    {
+      "id": 7,
+      "title": "1",
+      "author": "2",
+      "publicationYear": 3333,
+      "isbn": "4",
+      "genre": "5"
+    },
+    {
+      "id": 8,
+      "title": "hello",
+      "author": "hello",
+      "publicationYear": 777,
+      "isbn": "77777",
+      "genre": "hello"
+    },
+    {
+      "id": 9,
+      "title": "hi",
+      "author": "hi",
+      "publicationYear": 777,
+      "isbn": "hi",
+      "genre": "hi"
+    }
+  ]
+}
